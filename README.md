@@ -26,7 +26,7 @@ Run the `pong.py` file to start the game.
 The game is played using the arrow keys and the `W` and `S` keys. The left paddle is controlled with the `W` and `S` keys, and the right paddle is controlled with the `Up` and `Down` arrow keys. The game can be paused by pressing the `Spacebar`, and the game can be exited at any time by pressing the `Esc` key.
 
 ## Contributing
-Contributions are welcome! Please see the contributing guidelines for more information.
+Contributions are welcome! If you have any suggestions for improving the program or finding bugs, please submit an [issue](https://github.com/TheHumanoidTyphoon/python-turtle-pong-game/issues) or pull request on the [GitHub repository](https://github.com/TheHumanoidTyphoon/python-turtle-pong-game).
 
 ## Acknowledgments
 This project was inspired by the classic Pong game.
