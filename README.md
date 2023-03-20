@@ -2,7 +2,7 @@
 A simple game of Pong implemented in Python using the Turtle and Pygame libraries.
 
 ## Preview
-<img width=50% src="TheHumanoidTyphoon/python-turtle-pong-game/images/pong-preview.gif">
+<img width=50% src="images/pong-preview.gif">
 
 ### Table of Contents
 - Introduction
