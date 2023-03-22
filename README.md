@@ -20,8 +20,9 @@ Pong is a classic arcade game that was first released in 1972. The game is playe
 - Turtle
 - Tkinter library
 ## Installation
-Clone the repository. Install the required dependencies by running the following command in your terminal: `pip install -r requirements.txt`.
-Run the `pong.py` file to start the game.
+- Clone the repository. 
+- Install the required dependencies by running the following command in your terminal: `pip install -r requirements.txt`.
+- Run the `pong.py` file to start the game.
 ## How to Play
 The game is played using the arrow keys and the `W` and `S` keys. The left paddle is controlled with the `W` and `S` keys, and the right paddle is controlled with the `Up` and `Down` arrow keys. The game can be paused by pressing the `Spacebar`, and the game can be exited at any time by pressing the `Esc` key.
 
