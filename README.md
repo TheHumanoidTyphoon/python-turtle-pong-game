@@ -1,5 +1,5 @@
 # Pong Game
-A simple game of Pong implemented in Python using the Turtle and Pygame .
+A simple game of Pong implemented in Python using the Turtle and Pygame libraries.
 
 ## Preview
 <img width=100% src="images/pong-preview.gif">
